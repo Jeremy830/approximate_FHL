@@ -35,7 +35,9 @@ const int sw_method=99;/*input the method of skyline computation
 
 /*NOTE1: the input file should be in the folder "data", which include road network, 
 graph partitions, boundary vertices, and skylines between any two boundaries in each 
-partion. The example data file can be get via*/
+partition. The example data file can be obtained via:
+https://www.dropbox.com/scl/fi/hiuv1rn6q324qr2scdaqi/data.zip?rlkey=rwq1lzgg0glekhlpl5ql5n94j&dl=0
+*/
 
 /*Note2: crease a folder "index" in the same folder of the executable file to store the index*/
 
